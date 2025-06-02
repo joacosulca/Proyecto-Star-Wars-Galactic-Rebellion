@@ -20,10 +20,11 @@
 ## Como compilar y Ejecutar
 
 1. Clonar Repositorio
-
+   ```
+   
    git clone https://github.com/joacosulca/Proyecto-Star-Wars-Galactic-Rebellion
    cd Proyecto-Star-Wars-Galactic-Rebellion
-   
+   ```
 3. Importar el proyecto en un IDE compatible como Gradle (como Intellij IDEA o Eclipse)
 
    - Seleccionar el proyecto como Gradle Project
