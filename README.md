@@ -21,7 +21,6 @@
 
 1. Clonar Repositorio
    ```
-   
    git clone https://github.com/joacosulca/Proyecto-Star-Wars-Galactic-Rebellion
    cd Proyecto-Star-Wars-Galactic-Rebellion
    ```
