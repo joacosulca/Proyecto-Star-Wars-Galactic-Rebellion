@@ -21,7 +21,7 @@
 
 1. Clonar Repositorio
    ```
-   git clone https://github.com/joacosulca/Proyecto-Star-Wars-Galactic-Rebellion
+   git clone https://github.com/joacosulca/Proyecto-Star-Wars-Galactic-Rebellion.git
    cd Proyecto-Star-Wars-Galactic-Rebellion
    ```
 3. Importar el proyecto en un IDE compatible como Gradle (como Intellij IDEA o Eclipse)
