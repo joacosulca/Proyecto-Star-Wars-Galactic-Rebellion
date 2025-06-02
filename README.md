@@ -1,33 +1,42 @@
 # Star Wars Galactic Rebellion
 
-A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
+## Integrantes:
 
-This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
+- Vito Peluso.
+- Giuliano Santangelo Russo.
+- Joaquin Sulca.
 
-## Platforms
+## Descripción del Juego
 
-- `core`: Main module with the application logic shared by all platforms.
-- `lwjgl3`: Primary desktop platform using LWJGL3; was called 'desktop' in older docs.
+“Star Wars: Galactic Rebellion” es un videojuego de disparos en 2D estilo arcade, inspirado en Galaga, ambientado en el universo de Star Wars. Ofrece tanto un modo para un jugador como multijugador en línea para dos participantes. Los jugadores controlan naves rebeldes personalizables para enfrentar oleadas de enemigos imperiales, recolectar power-ups y competir por la supervivencia o el puntaje más alto. Con gráficos pixel art retro y una ambientación sonora de la saga, el juego combina acción intensa con una experiencia nostálgica y competitiva.
 
-## Gradle
+## Tecnologias
 
-This project uses [Gradle](https://gradle.org/) to manage dependencies.
-The Gradle wrapper was included, so you can run Gradle tasks using `gradlew.bat` or `./gradlew` commands.
-Useful Gradle tasks and flags:
+- LibGDX.
+- Java.
+- Intellij IDEA.
+- Escritorio.
 
-- `--continue`: when using this flag, errors will not stop the tasks from running.
-- `--daemon`: thanks to this flag, Gradle daemon will be used to run chosen tasks.
-- `--offline`: when using this flag, cached dependency archives will be used.
-- `--refresh-dependencies`: this flag forces validation of all dependencies. Useful for snapshot versions.
-- `build`: builds sources and archives of every project.
-- `cleanEclipse`: removes Eclipse project data.
-- `cleanIdea`: removes IntelliJ project data.
-- `clean`: removes `build` folders, which store compiled classes and built archives.
-- `eclipse`: generates Eclipse project data.
-- `idea`: generates IntelliJ project data.
-- `lwjgl3:jar`: builds application's runnable jar, which can be found at `lwjgl3/build/libs`.
-- `lwjgl3:run`: starts the application.
-- `test`: runs unit tests (if any).
+## Como compilar y Ejecutar
 
-Note that most tasks that are not specific to a single project can be run with `name:` prefix, where the `name` should be replaced with the ID of a specific project.
-For example, `core:clean` removes `build` folder only from the `core` project.
+1. Clonar Repositorio
+
+   git clone https://github.com/joacosulca/Proyecto-Star-Wars-Galactic-Rebellion
+   cd Proyecto-Star-Wars-Galactic-Rebellion
+   
+3. Importar el proyecto en un IDE compatible como Gradle (como Intellij IDEA o Eclipse)
+
+   - Seleccionar el proyecto como Gradle Project
+   - Verificar que este usando Java 8
+
+4. Ejecutar el juego
+
+   - Desde el IDE, correr la clase Lwjgl3Launcher.java ubicada en el modulo lwjgl3.
+   - Desde la consola
+     gradlew.bat run
+   
+## Estado actual del Proyecto
+
+El estado actual del proyecto se encuentra en una etapa inicial
+- Configuracion Inicial
+- Motor LibGDX
