@@ -36,8 +36,13 @@
 
    - Desde el IDE, correr la clase Lwjgl3Launcher.java ubicada en el modulo lwjgl3.
    - Desde la consola
+     ```
+     Windows (CMD o PowerShell)
      gradlew.bat run
-   
+
+     Linux/macOS
+     ./gradlew run (o ./gradlew lwjgl3:run si es más preciso para su configuración).
+     ```
 ## Estado actual del Proyecto
 
 El estado actual del proyecto se encuentra en una etapa inicial
