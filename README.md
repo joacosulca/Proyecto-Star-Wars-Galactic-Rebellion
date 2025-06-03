@@ -17,6 +17,9 @@
 - Intellij IDEA.
 - Escritorio.
 
+## Wiki del Proyecto (Propuesta del tema)
+[Propuesta de proyecto](https://github.com/joacosulca/Proyecto-Star-Wars-Galactic-Rebellion/wiki)
+
 ## Como compilar y Ejecutar
 
 1. Clonar Repositorio
