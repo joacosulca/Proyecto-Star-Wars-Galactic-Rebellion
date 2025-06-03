@@ -1,7 +1,7 @@
 #CHANGELOG
 
 Aqui se documentaran todos los cambios importantes de este proyecto.
-Se siguele formato estandar [Keep a Changelog] (https://keepachangelog.com/es-ES/1.0.0/).
+Se sigue el formato estandar [Keep a Changelog] (https://keepachangelog.com/es-ES/1.0.0/).
 
 
 ## [Unreleased]
