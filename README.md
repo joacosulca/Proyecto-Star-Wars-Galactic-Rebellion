@@ -47,4 +47,5 @@
 
 El estado actual del proyecto se encuentra en una etapa inicial
 - Configuracion Inicial
-- Motor LibGDX
+- Clases creadas
+- Separacion de clases por paquetes
